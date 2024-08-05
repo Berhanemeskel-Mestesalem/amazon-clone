@@ -1,0 +1,12 @@
+.container {
+  background-color: #efeeee;
+  padding: 30px;
+}
+.orders_container {
+  background-color: #fff;
+  padding: 20%;
+}
+.orders_container h2 {
+  border-bottom: 2px solid var(--praimary-shade);
+  padding: 20px
+}
